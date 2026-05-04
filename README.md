@@ -8,9 +8,9 @@ Expense Tracker (Трекер расходов) - приложение для о
 ## Требования для запуска 
 Что нужно установить на компьютер: 
 - Python 3.10 или выше
-- Библиотеки: ` 
+- Библиотеки: `tkinter','json','datetime'. 
 ## Как запустить 
 ```bash 
-git clone https://github.com/andr752/qeweqwqewqewqweqweqweqwe.git 
-cd qeweqwqewqewqweqweqweqwe
+git clone https://github.com/andr752/123123123123.git 
+cd 123123123123
 python main.py 
